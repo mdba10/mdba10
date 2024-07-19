@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdba10
-- 👀 I’m interested in, 🖥️ Building performant, accessible, and scalable web applications.
+- 👀 I’m interested in, 🖥️ Building performant, accessible, and scalable web applications. and mobile
 - 🌱 I’m currently learning, 🌱 I’m continuously learning and keeping up with the latest trends and best practices in web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
